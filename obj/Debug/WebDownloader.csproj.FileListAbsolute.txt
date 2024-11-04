@@ -1,0 +1,7 @@
+C:\Users\KOSTA\source\repos\WebDownloader\bin\Debug\WebDownloader.exe.config
+C:\Users\KOSTA\source\repos\WebDownloader\bin\Debug\WebDownloader.exe
+C:\Users\KOSTA\source\repos\WebDownloader\bin\Debug\WebDownloader.pdb
+C:\Users\KOSTA\source\repos\WebDownloader\obj\Debug\WebDownloader.csproj.AssemblyReference.cache
+C:\Users\KOSTA\source\repos\WebDownloader\obj\Debug\WebDownloader.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\WebDownloader\obj\Debug\WebDownloader.exe
+C:\Users\KOSTA\source\repos\WebDownloader\obj\Debug\WebDownloader.pdb
